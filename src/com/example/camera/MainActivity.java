@@ -23,7 +23,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 	//git update
-	///up
+	///up s
 	
 	 Uri mImageCaptureUri;
 	private static final int PICK_FROM_CAMERA = 1;
